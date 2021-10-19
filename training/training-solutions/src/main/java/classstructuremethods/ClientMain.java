@@ -4,7 +4,7 @@ public class ClientMain {
 
     public static void main(String[] args) {
         Client client = new Client();
-        client.setName("Gergo Galat");
+        client.setName("Gergő Galát");
         client.setYear(1992);
         client.setAddress("1139 Budapest Üteg street 11/A");
         System.out.println("Name:" + client.getName() + " " + "Year of birth:" + client.getYear() + " " + "Address:" + client.getAddress());
