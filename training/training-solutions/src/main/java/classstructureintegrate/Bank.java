@@ -9,7 +9,7 @@ public class Bank {
         System.out.println("Enter your name!");
         String owner = scanner.nextLine();
         System.out.println("Enter your bank account number!");
-        int accountNumber = scanner.nextInt();
+        String accountNumber = scanner.nextLine();
         System.out.println("Enter the balance!");
         int balance = scanner.nextInt();
 
