@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ClientMain {
 
     public static void main(String[] args) {
-        Client client = new Client();
+        Client client = new classstructureattributes.Client();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your name!");
         client.name = scanner.nextLine();

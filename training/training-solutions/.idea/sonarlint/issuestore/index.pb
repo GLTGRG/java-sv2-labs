@@ -13,3 +13,17 @@ Z
 *src/main/java/localvariables/Distance.java,d\e\de465e6dafde5e05caf159e1f22b1d168ec754c0
 ^
 .src/main/java/localvariables/DistanceMain.java,3\d\3df913e6b3df22f721ae2ed7d8b05a6c93758d9c
+_
+/src/main/java/classstructureintegrate/Bank.java,2\a\2ad79e20c4f36bab0f626d94a8e6dccfe261ac60
+[
++src/main/java/statements/StatementMain.java,1\e\1ec6a852992dbf6d4c64a3f53308c297b6511321
+X
+(src/main/java/statements/Investment.java,d\9\d9ab34db61e5021c5f6f3f627234e24d16d3c103
+\
+,src/main/java/statements/InvestmentMain.java,c\b\cb4928959adc98445e23c8dd1007b3ac1220b40f
+X
+(src/main/java/statements/DivByThree.java,f\1\f11482fc15068604411be617772b22c30a52638f
+V
+&src/main/java/statements/TimeMain.java,4\d\4dd14064e2f90c682752071e501e5045642f66fd
+R
+"src/main/java/statements/Time.java,f\9\f9e42cfc62856e3146bd099384e935bb03491f0d
