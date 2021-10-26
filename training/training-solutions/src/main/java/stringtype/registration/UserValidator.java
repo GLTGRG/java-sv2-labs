@@ -11,9 +11,13 @@ public class UserValidator {
     }
 
     public boolean isValidEmail(String email){
+
         int indexOfAt = email.indexOf("@");
-        int indexOfDot = email.indexOf(".");
+        String domain = email.substring(indexOfAt);
+        int indexOfDot = domain.indexOf(".");
         int emailLength = email.length();
-        return indexOfAt > 0 && indexOfDot > indexOfAt + 1 && indexOfDot < emailLength;
+        return indexOfAt > 0 && indexOfDot > 1 && indexOfDot < domain.length();
+
+
     }
 }
