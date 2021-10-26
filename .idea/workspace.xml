@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="" />
+    <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureattributes/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureattributes/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureattributes/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureattributes/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureconstructors/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureconstructors/BookMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureconstructors/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureconstructors/StoreMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureintegrate/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureintegrate/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureintegrate/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureintegrate/ProductMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureio/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructureio/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructuremethods/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructuremethods/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructuremethods/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/classstructuremethods/NoteMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/conventions/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/javaapi/Upper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/localvariables/Distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/localvariables/DistanceMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/localvariables/LocalVariablesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/packages/firstname/FirstName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/packages/greetings/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/packages/lastname/LastName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/packages/main/MainProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/packages/namemain/NameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/packages/prefix/Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/statements/DivByThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/statements/Investment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/statements/InvestmentMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/statements/StatementMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/statements/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/statements/TimeMain.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,33 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
   </component>
-  <component name="RunManager" selected="Application.Upper">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classstructureintegrate.Bank" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classstructureintegrate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classstructuremethods.ClientMain" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classstructuremethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Registration">
     <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="packages.main.MainProgram" />
       <module name="java-sv2-labs" />
@@ -83,6 +95,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringtype.registration.Registration" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringtype.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringtype.StringTypeMain" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringtype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Upper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaapi.Upper" />
       <module name="java-sv2-labs" />
@@ -98,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Registration" />
+        <item itemvalue="Application.StringTypeMain" />
         <item itemvalue="Application.Upper" />
         <item itemvalue="Application.NameMain" />
         <item itemvalue="Application.MainProgram" />
-        <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.ClientMain" />
       </list>
     </recent_temporary>
   </component>
