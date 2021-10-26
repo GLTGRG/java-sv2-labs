@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/stringtype/registration/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-sv2-labs/stringtype/registration/Registration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/stringtype/registration/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-sv2-labs/stringtype/registration/UserValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/stringtype/registration/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/src/main/java/stringtype/registration/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/stringtype/registration/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/src/main/java/stringtype/registration/UserValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
   </component>
-  <component name="RunManager" selected="Application.CarMain">
+  <component name="RunManager" selected="Application.PerformanceTest">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linebreak.CarMain" />
       <module name="java-sv2-labs" />
@@ -63,6 +59,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introdate.EmployeeTest" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introdate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introdate.PerformanceTest" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introdate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringtype.registration.Registration" />
       <module name="java-sv2-labs" />
@@ -76,39 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringtype.StringTypeMain" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringtype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Upper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaapi.Upper" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaapi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerformanceTest" />
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.CityNames" />
         <item itemvalue="Application.Registration" />
-        <item itemvalue="Application.StringTypeMain" />
-        <item itemvalue="Application.Upper" />
       </list>
     </recent_temporary>
   </component>
