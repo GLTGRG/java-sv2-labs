@@ -35,3 +35,17 @@ l
 <training/training-solutions/src/main/java/javaapi/Upper.java,3\3\33cf013b3e9fea5c5c27a2df5455547e8331c190
 n
 >training/training-solutions/src/main/java/distjar/distjar.java,7\a\7a98227e6be7776869f77262d021c81fda0ef102
+y
+Itraining/training-solutions/src/main/java/packages/namemain/NameMain.java,a\d\ada79ba9e39334754b47c0a684c0d9d587547873
+x
+Htraining/training-solutions/src/main/java/stringtype/StringTypeMain.java,e\b\eb6d2cf696c59303e9984e062776f5359c854a71
+„
+Ttraining/training-solutions/src/main/java/stringtype/registration/UserValidator.java,e\4\e48281c12e283bb573a0f787592620d993c07155
+r
+Btraining/training-solutions/src/main/java/linebreak/CityNames.java,b\4\b4765b1059e293b69aa5bc1160bbb2b7bc7516b9
+l
+<training/training-solutions/src/main/java/linebreak/Car.java,c\e\ce5761b62cfef9e5e72340820b81941dffb44ffc
+p
+@training/training-solutions/src/main/java/linebreak/CarMain.java,0\5\05033811ffff10db53ed239472071faea7ed87fc
+ƒ
+Straining/training-solutions/src/main/java/stringtype/registration/Registration.java,7\3\73868ff64b273e1e4627cb65479881a000624072

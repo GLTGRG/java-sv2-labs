@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +33,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
   </component>
-  <component name="RunManager" selected="Application.PerformanceTest">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linebreak.CarMain" />
+  <component name="RunManager" selected="Application.BoatRental">
+    <configuration name="BoatRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introcontrol.BoatRental" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linebreak.*" />
+          <option name="PATTERN" value="introcontrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CityNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linebreak.CityNames" />
+    <configuration name="IntroControlMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introcontrol.IntroControlMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linebreak.*" />
+          <option name="PATTERN" value="introcontrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introdate.EmployeeTest" />
+    <configuration name="Qualifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introcontrol.Qualifier" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introdate.*" />
+          <option name="PATTERN" value="introcontrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introdate.PerformanceTest" />
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introcontrol.Sum" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introdate.*" />
+          <option name="PATTERN" value="introcontrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringtype.registration.Registration" />
+    <configuration name="UserMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introcontrol.UserMenu" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringtype.registration.*" />
+          <option name="PATTERN" value="introcontrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerformanceTest" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.CityNames" />
-        <item itemvalue="Application.Registration" />
+        <item itemvalue="Application.BoatRental" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.UserMenu" />
+        <item itemvalue="Application.Qualifier" />
+        <item itemvalue="Application.IntroControlMain" />
       </list>
     </recent_temporary>
   </component>
@@ -130,5 +131,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_sv2_labs$UserMenu.ic" NAME="UserMenu Coverage Results" MODIFIED="1635355473492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>introcontrol.*</FILTER>
+    </SUITE>
   </component>
 </project>
