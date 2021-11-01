@@ -7,4 +7,6 @@ public class BoatRental {
         Scanner scanner = new Scanner(System.in);
 
     }
+
+
 }

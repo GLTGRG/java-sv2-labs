@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1920c42cb2a28502ff89cb50387cb65831fef1e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a98227e6be7776869f77262d021c81fda0ef102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e48281c12e283bb573a0f787592620d993c07155" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb6d2cf696c59303e9984e062776f5359c854a71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/distjar/distjar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/distjar/distjar.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/introcontrol/BoatRental.java" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/src/main/java/introcontrol/BoatRental.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +39,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
   </component>
-  <component name="RunManager" selected="Application.tesyt">
+  <component name="RunManager" selected="Application.CmdMain">
     <configuration name="ArrayHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.ArrayHandler" />
       <module name="java-sv2-labs" />
@@ -60,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoatRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introcontrol.BoatRental" />
+    <configuration name="CmdMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cmdarguments.flowers.flowers.CmdMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introcontrol.*" />
+          <option name="PATTERN" value="cmdarguments.flowers.flowers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CmdMain" />
         <item itemvalue="Application.tesyt" />
         <item itemvalue="Application.ArrayHandler" />
         <item itemvalue="Application.teszt" />
         <item itemvalue="Application.ArrayMain" />
-        <item itemvalue="Application.BoatRental" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +142,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_sv2_labs$CmdMain.ic" NAME="CmdMain Coverage Results" MODIFIED="1635783918511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cmdarguments.flowers.flowers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_sv2_labs$tesyt.ic" NAME="tesyt Coverage Results" MODIFIED="1635783643231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>array.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/java_sv2_labs$UserMenu.ic" NAME="UserMenu Coverage Results" MODIFIED="1635355473492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>introcontrol.*</FILTER>
     </SUITE>
