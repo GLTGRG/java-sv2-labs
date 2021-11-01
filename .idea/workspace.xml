@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1920c42cb2a28502ff89cb50387cb65831fef1e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a98227e6be7776869f77262d021c81fda0ef102" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e48281c12e283bb573a0f787592620d993c07155" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb6d2cf696c59303e9984e062776f5359c854a71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/distjar/distjar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/distjar/distjar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/introcontrol/BoatRental.java" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/src/main/java/introcontrol/BoatRental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/cmdarguments/flowers/flowers/CmdMain.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +34,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
   </component>
-  <component name="RunManager" selected="Application.CmdMain">
-    <configuration name="ArrayHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayHandler" />
+  <component name="RunManager" selected="Application.RectangleMain">
+    <configuration name="ArrayOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayofarrays.ArrayOfArrays" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="arrayofarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayMain" />
+    <configuration name="ArrayOfArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayofarrays.ArrayOfArraysMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="arrayofarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tesyt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.tesyt" />
+    <configuration name="RectangleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayofarrays.RectangleMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="arrayofarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teszt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.teszt" />
+    <configuration name="TriangularMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayofarrays.TriangularMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="arrayofarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RectangleMain" />
+        <item itemvalue="Application.TriangularMain" />
+        <item itemvalue="Application.ArrayOfArraysMain" />
+        <item itemvalue="Application.ArrayOfArrays" />
         <item itemvalue="Application.CmdMain" />
-        <item itemvalue="Application.tesyt" />
-        <item itemvalue="Application.ArrayHandler" />
-        <item itemvalue="Application.teszt" />
-        <item itemvalue="Application.ArrayMain" />
       </list>
     </recent_temporary>
   </component>
