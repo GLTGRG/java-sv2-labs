@@ -33,13 +33,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
   </component>
-  <component name="RunManager" selected="Application.SumMain">
-    <configuration name="Favourites" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aslist.Favourites" />
+  <component name="RunManager" selected="Application.LanguageSchool">
+    <configuration name="EveryThirdMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="looptypesmodify.EveryThirdMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aslist.*" />
+          <option name="PATTERN" value="looptypesmodify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Island" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aslist.Island" />
+    <configuration name="LanguageSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="looptypesmodify.LanguageSchool" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aslist.*" />
+          <option name="PATTERN" value="looptypesmodify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LanguageSchool" />
+        <item itemvalue="Application.EveryThirdMain" />
         <item itemvalue="Application.SumMain" />
         <item itemvalue="Application.StudyGroupMain" />
         <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.Island" />
-        <item itemvalue="Application.Favourites" />
       </list>
     </recent_temporary>
   </component>
