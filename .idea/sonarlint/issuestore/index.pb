@@ -69,8 +69,6 @@ Ttraining/training-solutions/src/main/java/stringtype/registration/UserValidator
 Ktraining/training-solutions/src/main/java/cmdarguments/flowers/CmdMain.java,0\3\03f1fbeb48a7f6f37b380ea4e937790e338c9b0b
 S
 #training/training-solutions/pom.xml,1\9\1920c42cb2a28502ff89cb50387cb65831fef1e8
-C
-Selfcheck/week02.md,0\c\0c183d3a3158cfa11d4c672c8fc7ae21f216c253
 {
 Ktraining/training-solutions/src/main/java/cmdarguments/verse/VerseMain.java,5\c\5cef2656da49d030fa412101bbcda86f47d2c16a
 
