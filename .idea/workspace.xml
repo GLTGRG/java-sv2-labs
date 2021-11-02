@@ -34,39 +34,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.PiMain">
-    <configuration name="Debug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debug.Debug" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="debug.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Week">
     <configuration name="Gentleman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="finalmodifier.Gentleman" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="finalmodifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LanguageSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="looptypesmodify.LanguageSchool" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="looptypesmodify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +74,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaxCalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalmodifier.TaxCalculatorMain" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalmodifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalmodifier.Week" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalmodifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week" />
+        <item itemvalue="Application.TaxCalculatorMain" />
         <item itemvalue="Application.PiMain" />
         <item itemvalue="Application.Gentleman" />
         <item itemvalue="Application.StarMain" />
-        <item itemvalue="Application.Debug" />
-        <item itemvalue="Application.LanguageSchool" />
       </list>
     </recent_temporary>
   </component>
