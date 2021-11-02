@@ -32,8 +32,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teszt/java-sv2-labs" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.StarMain">
+  <component name="RunManager" selected="Application.PiMain">
     <configuration name="Debug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="debug.Debug" />
       <module name="java-sv2-labs" />
@@ -47,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EveryThirdMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="looptypesmodify.EveryThirdMain" />
+    <configuration name="Gentleman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalmodifier.Gentleman" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="looptypesmodify.*" />
+          <option name="PATTERN" value="finalmodifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PiMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalmodifier.PiMain" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalmodifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="debug.StarMain" />
       <module name="java-sv2-labs" />
@@ -86,26 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="looptypes.SumMain" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="looptypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PiMain" />
+        <item itemvalue="Application.Gentleman" />
         <item itemvalue="Application.StarMain" />
         <item itemvalue="Application.Debug" />
         <item itemvalue="Application.LanguageSchool" />
-        <item itemvalue="Application.EveryThirdMain" />
-        <item itemvalue="Application.SumMain" />
       </list>
     </recent_temporary>
   </component>
