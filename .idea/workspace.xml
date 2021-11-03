@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-sv2-labs/attributes/bill/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-sv2-labs/attributes/bill/Bill.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Bill">
+  <component name="RunManager" selected="Application.CyclingTourMain">
     <configuration name="Bill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="attributes.bill.Bill" />
       <module name="java-sv2-labs" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.math.MathMethods" />
+    <configuration name="CyclingTourMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introconstructors.CyclingTourMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.math.*" />
+          <option name="PATTERN" value="introconstructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.random.RandomDraw" />
+    <configuration name="TaskMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introconstructors.TaskMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.random.*" />
+          <option name="PATTERN" value="introconstructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclingTourMain" />
+        <item itemvalue="Application.TaskMain" />
         <item itemvalue="Application.Bill" />
         <item itemvalue="Application.BookMain" />
         <item itemvalue="Application.ObjectsMain" />
-        <item itemvalue="Application.RandomDraw" />
-        <item itemvalue="Application.MathMethods" />
       </list>
     </recent_temporary>
   </component>
