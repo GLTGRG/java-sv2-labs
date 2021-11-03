@@ -1,0 +1,7 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¬åA
+B
+java:S1125%"'Remove the unnecessary boolean literal.(ãÙÍèûÿÿÿÿ
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(¬åA8µı¡”Î/
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
