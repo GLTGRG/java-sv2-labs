@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß©¸–øÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¸©àq
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ“›ø
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ù§üb
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øåŸ÷ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿°÷ÿøÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ã¬‹³ùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ
+\
+java:S1128":Remove this unused import 'javax.sound.midi.SysexMessage'.(áÔíÄúÿÿÿÿ8Ö¤è¾Î/
