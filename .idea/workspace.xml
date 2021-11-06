@@ -45,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.PersonalComputerMain">
+  <component name="RunManager" selected="Application.LiteralsMain">
     <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compositionlist.Books" />
       <module name="java-sv2-labs" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="references.dog.Kennel" />
+    <configuration name="LiteralsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.LiteralsMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="references.dog.*" />
+          <option name="PATTERN" value="literals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LiteralsMain" />
         <item itemvalue="Application.PersonalComputerMain" />
         <item itemvalue="Application.Books" />
         <item itemvalue="Application.Capsules" />
         <item itemvalue="Application.PersonMain" />
-        <item itemvalue="Application.Kennel" />
       </list>
     </recent_temporary>
   </component>
