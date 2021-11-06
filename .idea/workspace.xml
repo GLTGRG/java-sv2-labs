@@ -45,13 +45,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.PersonMain">
-    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intromethods.employee.EmployeeMain" />
+  <component name="RunManager" selected="Application.PersonalComputerMain">
+    <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compositionlist.Books" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intromethods.employee.*" />
+          <option name="PATTERN" value="compositionlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Capsules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compositionlist.Capsules" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compositionlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferencesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="references.parameters.ReferencesMain" />
+    <configuration name="PersonalComputerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compositionlist.computer.PersonalComputerMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="references.parameters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intromethods.registration.Registration" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intromethods.registration.*" />
+          <option name="PATTERN" value="compositionlist.computer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonalComputerMain" />
+        <item itemvalue="Application.Books" />
+        <item itemvalue="Application.Capsules" />
         <item itemvalue="Application.PersonMain" />
         <item itemvalue="Application.Kennel" />
-        <item itemvalue="Application.ReferencesMain" />
-        <item itemvalue="Application.Registration" />
-        <item itemvalue="Application.EmployeeMain" />
       </list>
     </recent_temporary>
   </component>
