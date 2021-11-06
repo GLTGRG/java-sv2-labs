@@ -45,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.LiteralsMain">
+  <component name="RunManager" selected="Application.ExamRegistration">
     <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compositionlist.Books" />
       <module name="java-sv2-labs" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Capsules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compositionlist.Capsules" />
+    <configuration name="ExamRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitivetypes.exam.ExamRegistration" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compositionlist.*" />
+          <option name="PATTERN" value="primitivetypes.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="composition.person.PersonMain" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="composition.person.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PersonalComputerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compositionlist.computer.PersonalComputerMain" />
       <module name="java-sv2-labs" />
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimitiveTypesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitivetypes.PrimitiveTypesMain" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitivetypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExamRegistration" />
+        <item itemvalue="Application.PrimitiveTypesMain" />
         <item itemvalue="Application.LiteralsMain" />
         <item itemvalue="Application.PersonalComputerMain" />
         <item itemvalue="Application.Books" />
-        <item itemvalue="Application.Capsules" />
-        <item itemvalue="Application.PersonMain" />
       </list>
     </recent_temporary>
   </component>
