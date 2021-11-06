@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -45,13 +46,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Whitespace">
-    <configuration name="ExamRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitivetypes.exam.ExamRegistration" />
+  <component name="RunManager" selected="Application.SolarSystemMain">
+    <configuration name="FirstEnumMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtype.firstenum.FirstEnumMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primitivetypes.exam.*" />
+          <option name="PATTERN" value="enumtype.firstenum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LettersAndDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chars.LettersAndDigits" />
+    <configuration name="SolarSystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtype.solarsystem.SolarSystemMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chars.*" />
+          <option name="PATTERN" value="enumtype.solarsystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveTypesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitivetypes.PrimitiveTypesMain" />
+    <configuration name="UniversityMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtype.university.UniversityMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primitivetypes.*" />
+          <option name="PATTERN" value="enumtype.university.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SolarSystemMain" />
+        <item itemvalue="Application.UniversityMain" />
+        <item itemvalue="Application.FirstEnumMain" />
         <item itemvalue="Application.Whitespace" />
         <item itemvalue="Application.Words" />
-        <item itemvalue="Application.LettersAndDigits" />
-        <item itemvalue="Application.ExamRegistration" />
-        <item itemvalue="Application.PrimitiveTypesMain" />
       </list>
     </recent_temporary>
   </component>
