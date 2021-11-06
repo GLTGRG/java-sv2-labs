@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/training-solutions/src/main/java/enumtype/solarsystem/SolarSystemMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/src/main/java/enumtype/solarsystem/SolarSystemMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +46,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.HeadingNorth">
-    <configuration name="FirstEnumMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumtype.firstenum.FirstEnumMain" />
+  <component name="RunManager" selected="Application.Division">
+    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathproblems.Division" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumtype.firstenum.*" />
+          <option name="PATTERN" value="mathproblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Division" />
         <item itemvalue="Application.HeadingNorth" />
         <item itemvalue="Application.OperatorsMain" />
         <item itemvalue="Application.SolarSystemMain" />
         <item itemvalue="Application.UniversityMain" />
-        <item itemvalue="Application.FirstEnumMain" />
       </list>
     </recent_temporary>
   </component>
