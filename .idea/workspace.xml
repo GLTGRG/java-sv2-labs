@@ -46,13 +46,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.FileNameManipulator">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringconcat.employee.Employee" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="stringbuilder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PalindromeValidator">
+    <configuration name="Airport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringbuilder.airport.Airport" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringconcat.employee.*" />
+          <option name="PATTERN" value="stringbuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringbasic.characters.Words" />
+    <configuration name="PalindromeValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringbuilder.PalindromeValidator" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringbasic.characters.*" />
+          <option name="PATTERN" value="stringbuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeValidator" />
+        <item itemvalue="Application.Airport" />
         <item itemvalue="Application.FileNameManipulator" />
         <item itemvalue="Application.NameMain" />
         <item itemvalue="Application.EmployeeMain" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Words" />
       </list>
     </recent_temporary>
   </component>
