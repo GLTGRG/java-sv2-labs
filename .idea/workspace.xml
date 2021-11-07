@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +46,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Words">
-    <configuration name="ConversionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="typeconversion.ConversionMain" />
+  <component name="RunManager" selected="Application.NameMain">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringconcat.employee.Employee" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="typeconversion.*" />
+          <option name="PATTERN" value="stringconcat.employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conversions.Digits" />
+    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringconcat.employee.EmployeeMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conversions.*" />
+          <option name="PATTERN" value="stringconcat.employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TooBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conversions.TooBigNumber" />
+    <configuration name="NameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringconcat.nameconcat.NameMain" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conversions.*" />
+          <option name="PATTERN" value="stringconcat.nameconcat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NameMain" />
+        <item itemvalue="Application.EmployeeMain" />
+        <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Words" />
         <item itemvalue="Application.UniversityMain" />
-        <item itemvalue="Application.Digits" />
-        <item itemvalue="Application.TooBigNumber" />
-        <item itemvalue="Application.ConversionMain" />
       </list>
     </recent_temporary>
   </component>
