@@ -51,7 +51,7 @@
       <recent name="stringbuilder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntScanner">
+  <component name="RunManager" selected="Application.Thanks">
     <configuration name="Codes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringseparate.Codes" />
       <module name="java-sv2-labs" />
@@ -91,19 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringbuilder.PalindromeValidator" />
-      <module name="java-sv2-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringbuilder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringscanner.StringScanner" />
       <module name="java-sv2-labs" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Thanks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="formatlocaleprintf.Thanks" />
+      <module name="java-sv2-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="formatlocaleprintf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Thanks" />
         <item itemvalue="Application.IntScanner" />
         <item itemvalue="Application.StringScanner" />
         <item itemvalue="Application.Codes" />
         <item itemvalue="Application.IceCream" />
-        <item itemvalue="Application.PalindromeValidator" />
       </list>
     </recent_temporary>
   </component>
