@@ -51,7 +51,7 @@
       <recent name="stringbuilder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeValidator">
+  <component name="RunManager" selected="Application.Codes">
     <configuration name="Airport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringbuilder.airport.Airport" />
       <module name="java-sv2-labs" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringconcat.employee.EmployeeMain" />
+    <configuration name="Codes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringseparate.Codes" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringconcat.employee.*" />
+          <option name="PATTERN" value="stringseparate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringconcat.nameconcat.NameMain" />
+    <configuration name="IceCream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringseparate.IceCream" />
       <module name="java-sv2-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringconcat.nameconcat.*" />
+          <option name="PATTERN" value="stringseparate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Codes" />
+        <item itemvalue="Application.IceCream" />
         <item itemvalue="Application.PalindromeValidator" />
         <item itemvalue="Application.Airport" />
         <item itemvalue="Application.FileNameManipulator" />
-        <item itemvalue="Application.NameMain" />
-        <item itemvalue="Application.EmployeeMain" />
       </list>
     </recent_temporary>
   </component>
