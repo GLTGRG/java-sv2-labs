@@ -1,0 +1,33 @@
+
+:
+java:S2153"Remove the boxing to "Integer".(ÿŸÏÿıÿÿÿÿ
+4
+java:S2153"Remove the boxing of "a".(’ ôñıÿÿÿÿ
+.
+java:S2153"Remove the boxing of "c".(©”ÔE
+^
+java:S2153"IRemove the boxing to "Integer"; The argument is already of the same type.(©”ÔE
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä”Ùûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šôÈû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ
+:
+java:S2153!"Remove the boxing to "Boolean".(ı‡Ïûıÿÿÿÿ
+:
+java:S2153""Remove the boxing to "Boolean".(íâëñÿÿÿÿÿ
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8â´Î¤Ï/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8â´Î¤Ï/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8â´Î¤Ï/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(†™ñ‹8â´Î¤Ï/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8â´Î¤Ï/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8ã´Î¤Ï/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¶·¶”şÿÿÿÿ8ã´Î¤Ï/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8ã´Î¤Ï/
+S
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8ŠêÌ¤Ï/
