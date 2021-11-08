@@ -143,10 +143,6 @@ u
 Etraining/training-solutions/src/main/java/math/random/RandomDraw.java,2\b\2bba74ed4af33b1d8fd46f8ac3ee61ef7b5f82bf
 C
 Selfcheck/week02.md,0\c\0c183d3a3158cfa11d4c672c8fc7ae21f216c253
-S
-#training/training-solutions/pom.xml,1\9\1920c42cb2a28502ff89cb50387cb65831fef1e8
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 k
 ;training/training-solutions/src/main/java/objects/Book.java,3\b\3b966c26cbaf367bf31147ca78302257e7321217
 r
