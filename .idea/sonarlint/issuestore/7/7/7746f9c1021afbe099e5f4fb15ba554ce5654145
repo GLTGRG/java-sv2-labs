@@ -1,0 +1,22 @@
+
+S
+java:S18547"8Remove this useless assignment to local variable "dog8".(¯ŸÞšÿÿÿÿÿ
+S
+java:S18546"8Remove this useless assignment to local variable "dog8".(Û©Êáýÿÿÿÿ
+N
+java:S18543"8Remove this useless assignment to local variable "dog2".(õÓ ò
+M	java:S106"9Replace this use of System.out or System.err by a logger.(®³†B
+M	java:S106"9Replace this use of System.out or System.err by a logger.(®³†B
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÊ£h
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÊ£h
+M	java:S106""9Replace this use of System.out or System.err by a logger.(®³†B
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(®³†B
+N	java:S106."9Replace this use of System.out or System.err by a logger.(±‡ðþ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(±‡ðþ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(±‡ðþ
+D
+java:S14816")Remove this unused "dog8" local variable.(Û©Êáýÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(±‡ðþ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(±‡ðþ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "black" 3 times.(é¿þöüÿÿÿÿ

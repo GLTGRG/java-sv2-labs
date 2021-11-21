@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾À…Èûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘øëÒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì´ˆ
+G
+java:S1153"1Directly append the argument of String.valueOf().(‘øëÒ

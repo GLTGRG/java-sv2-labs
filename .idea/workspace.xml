@@ -5,14 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/java-sv2-labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-sv2-labs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1920c42cb2a28502ff89cb50387cb65831fef1e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selfcheck/week04.md" beforeDir="false" afterPath="$PROJECT_DIR$/Selfcheck/week04.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureconstructors/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureconstructors/BookMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureconstructors/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureconstructors/StoreMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureintegrate/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureintegrate/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureintegrate/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureintegrate/ProductMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureio/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureio/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/NoteMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/conventions/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/localvariables/Distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/localvariables/DistanceMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/localvariables/LocalVariablesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/DivByThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/Investment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/InvestmentMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/StatementMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/TimeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/training-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/training-solutions.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +48,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -50,21 +77,36 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../miaszar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="stringbuilder" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="controladvanced.labels" />
+      <recent name="junit5assert" />
+      <recent name="introjunit" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Thanks">
-    <configuration name="Codes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringseparate.Codes" />
-      <module name="java-sv2-labs" />
+  <component name="RunManager" selected="Application.ForbiddenSevens">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controliteration.fibonacci.Fibonacci" />
+      <module name="training-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringseparate.*" />
+          <option name="PATTERN" value="controliteration.fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IceCream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringseparate.IceCream" />
-      <module name="java-sv2-labs" />
+    <configuration name="ForbiddenSevens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controladvanced.numbers.ForbiddenSevens" />
+      <module name="training-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringseparate.*" />
+          <option name="PATTERN" value="controladvanced.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringscanner.IntScanner" />
-      <module name="java-sv2-labs" />
+    <configuration name="Greetings" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlselection.greetings.Greetings" />
+      <module name="training-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringscanner.*" />
+          <option name="PATTERN" value="controlselection.greetings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,39 +140,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringscanner.StringScanner" />
-      <module name="java-sv2-labs" />
+    <configuration name="GentlemanTest.testSayHello (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="training-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringscanner.*" />
+          <option name="PATTERN" value="junit5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="junit5" />
+      <option name="MAIN_CLASS_NAME" value="junit5.GentlemanTest" />
+      <option name="METHOD_NAME" value="testSayHello" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thanks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="formatlocaleprintf.Thanks" />
-      <module name="java-sv2-labs" />
+    <configuration name="GentlemanTest.testSayHelloWithNullName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="training-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="formatlocaleprintf.*" />
+          <option name="PATTERN" value="junit5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="junit5" />
+      <option name="MAIN_CLASS_NAME" value="junit5.GentlemanTest" />
+      <option name="METHOD_NAME" value="testSayHelloWithNullName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersTest.testGetEvenNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="training-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit5assert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit5assert" />
+      <option name="MAIN_CLASS_NAME" value="junit5assert.NumbersTest" />
+      <option name="METHOD_NAME" value="testGetEvenNumbers" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Thanks" />
-        <item itemvalue="Application.IntScanner" />
-        <item itemvalue="Application.StringScanner" />
-        <item itemvalue="Application.Codes" />
-        <item itemvalue="Application.IceCream" />
+        <item itemvalue="Application.ForbiddenSevens" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="JUnit.NumbersTest.testGetEvenNumbers" />
+        <item itemvalue="JUnit.GentlemanTest.testSayHelloWithNullName" />
+        <item itemvalue="JUnit.GentlemanTest.testSayHello (1)" />
       </list>
     </recent_temporary>
   </component>
