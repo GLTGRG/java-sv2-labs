@@ -5,10 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99de64d-ca86-483d-8846-af4a5856bd09" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0_M1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selfcheck/week04.md" beforeDir="false" afterPath="$PROJECT_DIR$/Selfcheck/week04.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/array/ArrayHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/array/ArrayMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arraylist/Crossword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arraylist/Freezer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arraylist/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrayofarrays/ArrayOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrayofarrays/ArrayOfArraysMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrayofarrays/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrayofarrays/RectangleMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrayofarrays/Triangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrayofarrays/TriangularMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/arrays/ArraysMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/aslist/Favourites.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/aslist/Island.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/aslist/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/attributes/bill/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/attributes/bill/BillItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/attributes/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/attributes/book/BookMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/chars/LettersAndDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/chars/Whitespace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/chars/Words.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/Client.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/ClientMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructureattributes/Music.class" beforeDir="false" />
@@ -27,16 +58,140 @@
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/ClientMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/Note.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/classstructuremethods/NoteMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/cmdarguments/flowers/CmdMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/cmdarguments/operation/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/cmdarguments/verse/VerseMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/person/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/person/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/person/PersonMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/realestate/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/realestate/Details.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/realestate/RealEstate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/composition/realestate/RealEstateDotCom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/Books.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/Capsules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/computer/Cpu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/computer/Hardware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/computer/PersonalComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/computer/PersonalComputerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/compositionlist/computer/Software.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/controlselection/greetings/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/controlselection/greetings/Teszt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/conventions/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/conversions/Digits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/conversions/TooBigNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/debug/Debug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/debug/Star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/debug/StarMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/firstenum/Continent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/firstenum/FirstEnumMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/firstenum/Football.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/firstenum/Ocean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/position/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/position/PositionMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/solarsystem/SolarSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/solarsystem/SolarSystemMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/university/University.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/enumtype/university/UniversityMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/CircleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/CylinderCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/CylinderCalculatorBasedOnCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/Gentleman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/PiMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/TaxCalculatorMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/finalmodifier/Week.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/formatlocaleprintf/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/formatlocaleprintf/Thanks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introconstructors/CyclingTour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introconstructors/CyclingTourMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introconstructors/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introconstructors/TaskMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introcontrol/BoatRental.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introcontrol/IntroControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introcontrol/IntroControlMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introcontrol/Qualifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introcontrol/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introcontrol/UserMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introdate/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introdate/EmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introdate/Performance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introdate/PerformanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/introjunit/Gentleman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/intromethods/employee/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/intromethods/employee/EmployeeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/intromethods/registration/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/intromethods/registration/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/javaapi/Upper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/linebreak/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/linebreak/CarMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/linebreak/CityNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/literals/LiteralsMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/localvariables/Distance.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/localvariables/DistanceMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/localvariables/LocalVariablesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypes/StudyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypes/StudyGroupMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypes/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypes/SumMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypesmodify/EveryThird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypesmodify/EveryThirdMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypesmodify/LanguageSchool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/looptypesmodify/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/math/math/MathMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/math/random/RandomDraw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/mathproblems/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/numbers/MathOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/numbers/Percent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/objects/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/objects/ObjectsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/operators/HeadingNorth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/operators/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/operators/OperatorsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/packages/firstname/FirstName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/packages/greetings/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/packages/lastname/LastName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/packages/main/MainProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/packages/namemain/NameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/packages/prefix/Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/primitivetypes/PrimitiveTypesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/primitivetypes/exam/Exam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/primitivetypes/exam/ExamRegistration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/primitivetypes/exam/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/references/dog/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/references/dog/Kennel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/references/parameters/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/references/parameters/ReferencesMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/DivByThree.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/Investment.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/InvestmentMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/StatementMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/Time.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/statements/TimeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbasic/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbasic/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbasic/University.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbasic/UniversityMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbasic/characters/Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbuilder/PalindromeValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbuilder/airport/Airport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbuilder/airport/Flight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringbuilder/airport/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringconcat/employee/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringconcat/employee/EmployeeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringconcat/nameconcat/Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringconcat/nameconcat/NameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringconcat/nameconcat/Title.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringmethods/filename/FileNameManipulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringscanner/IntScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringscanner/StringScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringseparate/Codes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringseparate/IceCream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringtype/StringTypeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringtype/registration/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/stringtype/registration/UserValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/typeconversion/Conversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training-solutions/target/classes/typeconversion/ConversionMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/training/training-solutions/training-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/training/training-solutions/training-solutions.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +202,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="JUnit3 Test Class" />
         <option value="JUnit5 Test Class" />
+        <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -80,7 +236,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../miaszar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -100,7 +256,7 @@
       <recent name="introjunit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForbiddenSevens">
+  <component name="RunManager" selected="Application.Poem">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="controliteration.fibonacci.Fibonacci" />
       <module name="training-solutions" />
@@ -140,18 +296,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GentlemanTest.testSayHello (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Poem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introexceptioncause.Poem" />
       <module name="training-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="junit5.*" />
+          <option name="PATTERN" value="introexceptioncause.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="junit5" />
-      <option name="MAIN_CLASS_NAME" value="junit5.GentlemanTest" />
-      <option name="METHOD_NAME" value="testSayHello" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Poem" />
         <item itemvalue="Application.ForbiddenSevens" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="JUnit.NumbersTest.testGetEvenNumbers" />
         <item itemvalue="JUnit.GentlemanTest.testSayHelloWithNullName" />
-        <item itemvalue="JUnit.GentlemanTest.testSayHello (1)" />
       </list>
     </recent_temporary>
   </component>
